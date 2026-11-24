@@ -9,7 +9,7 @@ export function MostrarSenha() {
         {visivel ? 'Esconder Senha Secreta' : 'Mostrar Senha Secreta'}
       </button>
 
-      {visivel && <p>Senha: ErlyGay</p>}
+      {visivel && <p>Senha: abu</p>}
     </div>
   );
 }

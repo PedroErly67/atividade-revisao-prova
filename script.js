@@ -1,15 +1,6 @@
-/* 
-5. Dado o array abaixo, use filter e map juntos para criar um array só com os nomes dos produtos em estoque.
-   const produtos = [
-     { id: 1, nome: "Teclado", estoque: true },
-     { id: 2, nome: "Mouse", estoque: false },
-     { id: 3, nome: "Monitor", estoque: true },
-   ];
-   Resultado esperado: ["Teclado", "Monitor"]
-*/
 
 const boasVindas = (nome) => `Bem vindo(a) ${nome}!`
-console.log(boasVindas("Lorenzzo"))
+console.log(boasVindas("isa mi amor"))
 
 const parOuImpar = (num) => (num % 2 === 0 ? "Par" : "Ímpar")
 console.log(parOuImpar(4))
