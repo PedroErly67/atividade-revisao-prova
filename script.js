@@ -1,6 +1,6 @@
 
 const boasVindas = (nome) => `Bem vindo(a) ${nome}!`
-console.log(boasVindas("isa mi amor"))
+console.log(boasVindas("Lorenzzo"))
 
 const parOuImpar = (num) => (num % 2 === 0 ? "Par" : "Ímpar")
 console.log(parOuImpar(4))
